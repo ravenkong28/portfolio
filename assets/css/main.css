@@ -4223,6 +4223,13 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	border-bottom-color: rgba(113, 121, 129, 0.5);
 }
 
+
+#footer a {
+	text-decoration: none;
+	outline: none;
+	border: none;
+}
+
 #footer a:hover {
 	border-bottom-color: transparent;
 	color: #18bfef !important;
