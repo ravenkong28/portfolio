@@ -4084,6 +4084,19 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	height: auto;
 }
 
+/* Tambahan untuk ul.actions.special di dalam modal */
+#modalDocumentations {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+}
+
+/* Aturan untuk tombol individual */
+#modalDocumentations li {
+	margin: 0;
+}
+
 .tools,
 .languages,
 .libraries {
@@ -5520,12 +5533,16 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 
 /* Education Section */
+#education {
+	padding-bottom: 50px;
+}
 
 .education-container {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	gap: 1.5rem;
+	margin: 10px;
 }
 
 .flip-card {

@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "AWS": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg",
                 "Azure": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
                 "Dev C++": "https://images.sftcdn.net/images/t_app-icon-m/p/4095d654-96d0-11e6-87f8-00163ed833e7/1965154745/bloodshed-dev-c-icon.jpg",
-                "Excel" : "https://img.icons8.com/?size=100&id=117561&format=png&color=000000",
+                "Excel": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000",
                 "Github": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg",
                 "Google BigQuery": "https://cdn.simpleicons.org/googlebigquery",
                 "Google Cloud": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
@@ -26,17 +26,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Google Looker Studio": "https://cdn.simpleicons.org/looker",
                 "Hadoop": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg",
                 "Jupyter Notebook": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg",
-                "Kaggle":"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg",
-                "Laravel" : "https://cdn.simpleicons.org/laravel",
+                "Kaggle": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg",
+                "Laravel": "https://cdn.simpleicons.org/laravel",
                 "Medium": "https://cdn.simpleicons.org/medium",
                 "MySQL": "https://cdn.simpleicons.org/mysql",
-                "PostgreSQL" : "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg",
+                "PostgreSQL": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg",
                 "Postman": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg",
                 "Power BI": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000",
                 "R Studio": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg",
-                "RapidMiner2" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACSUlEQVR4AWIgBYyCX25iTABa6wFWkiiIwnDWtm3btm2b0drRIljbtm3btnefbRv1/iSDTqfHM0m+sCp1WnUbJVAB5RUqoBgyuTpAX/yAp4oX3qOlK4dnxRmIGRtdGaAKPCBmvEcRVwWYiDSIhjSkIw49XDE8By5BNCRiO75DsAOZnB2gOUJMXPlW5MYWCNxQxdkB1kE0HEMhXU0/JEIw15nDq8MNonIdpRR1pfAdgnco7qwAKyAqz1BFVZcJuyBIxXRnDK+lcfVf0MBE/WAkQfAOpRwZngWbIQpuaGumpyx+Q5CORY4E6IhQiI4/+lpxVhyA6Lijnj3DC+E2RCccY63sHYEUiM4R5LRleCYsRioEcZiJzFb2V8B/iE48JtgSoDMCIUjCMmS38d05ClH4iwbWNFfEawjSsAW57XiEY5GqsTeKmmsqgBNaW86OAJXhobG2NyKHqcNmlSL1NZR08N/hFEQlAXOQWV08H/EQ/EFDJyyxSSaO7wiMRyZ94QCEQ3Si8RL7MROdUAG57DhDvCEafNFQXzgScRAT4uCOe9iECWiOEshmJkA2nIdoCENzfWF+XIZYKQ2R+IFLWIHBqIOCyKwIMR3pEJU9yKa9du2TgiC8w1HMRxf00fiR8UBdreWxFeJECfBHEkQnHUtMPbOa+AdRSUIo3PABj3AdF3AOF3EDj/EJHghHMkTlNUqae3On4g9eYA9mohfqoywKIheyIYtCduRGIZRHI/TDPBzEW3zHAGsWSElkjBeUT6nVnYM6XAxbhTYKACmvbmMmxkvNAAAAAElFTkSuQmCC",
-                "RapidMiner" : "https://cdn-1.webcatalog.io/catalog/rapidminer/rapidminer-icon-filled-256.webp?v=1714775620341",
-                "Spring Boot" : "https://cdn.simpleicons.org/spring",
+                "RapidMiner2": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACSUlEQVR4AWIgBYyCX25iTABa6wFWkiiIwnDWtm3btm2b0drRIljbtm3btnefbRv1/iSDTqfHM0m+sCp1WnUbJVAB5RUqoBgyuTpAX/yAp4oX3qOlK4dnxRmIGRtdGaAKPCBmvEcRVwWYiDSIhjSkIw49XDE8By5BNCRiO75DsAOZnB2gOUJMXPlW5MYWCNxQxdkB1kE0HEMhXU0/JEIw15nDq8MNonIdpRR1pfAdgnco7qwAKyAqz1BFVZcJuyBIxXRnDK+lcfVf0MBE/WAkQfAOpRwZngWbIQpuaGumpyx+Q5CORY4E6IhQiI4/+lpxVhyA6Lijnj3DC+E2RCccY63sHYEUiM4R5LRleCYsRioEcZiJzFb2V8B/iE48JtgSoDMCIUjCMmS38d05ClH4iwbWNFfEawjSsAW57XiEY5GqsTeKmmsqgBNaW86OAJXhobG2NyKHqcNmlSL1NZR08N/hFEQlAXOQWV08H/EQ/EFDJyyxSSaO7wiMRyZ94QCEQ3Si8RL7MROdUAG57DhDvCEafNFQXzgScRAT4uCOe9iECWiOEshmJkA2nIdoCENzfWF+XIZYKQ2R+IFLWIHBqIOCyKwIMR3pEJU9yKa9du2TgiC8w1HMRxf00fiR8UBdreWxFeJECfBHEkQnHUtMPbOa+AdRSUIo3PABj3AdF3AOF3EDj/EJHghHMkTlNUqae3On4g9eYA9mohfqoywKIheyIYtCduRGIZRHI/TDPBzEW3zHAGsWSElkjBeUT6nVnYM6XAxbhTYKACmvbmMmxkvNAAAAAElFTkSuQmCC",
+                "RapidMiner": "https://cdn-1.webcatalog.io/catalog/rapidminer/rapidminer-icon-filled-256.webp?v=1714775620341",
+                "Spring Boot": "https://cdn.simpleicons.org/spring",
                 "SQL Server": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg",
                 "SQLite": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjajxsv9yFWZayqrADOgKocUa2hKq477ExtA&s",
                 "Tableau": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000",
@@ -48,12 +48,13 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             libraries: {
                 "Django": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg",
-                "Flask" : "https://cdn.simpleicons.org/Flask",
+                "Flask": "https://cdn.simpleicons.org/Flask",
                 "Keras": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png",
                 "Matplotlib": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png",
                 "NumPy": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg",
-                "OpenCV": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg", 
+                "OpenCV": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg",
                 "Pandas": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
+                "Plotly": "https://cdn.simpleicons.org/plotly",
                 "PyTorch": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg",
                 "Seaborn": "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg",
                 "SciPy": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnfhZwoeVtV8kGJjOCAyuBBLEWWpC7OFiqQ&s",
@@ -96,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    
+
 
     viewProjectButtons.forEach(button => {
         button.addEventListener('click', (event) => {
@@ -119,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 toolsHeader.style.textAlign = 'center';
                 toolsHeader.textContent = 'Tools';
                 modalTools.parentNode.insertBefore(toolsHeader, modalTools);
-                
+
                 const toolList = tools.split(',').map(tool => tool.trim());
                 modalTools.innerHTML = toolList.map(tool => {
                     const logoUrl = getLogoUrl(tool, 'tools');
@@ -137,7 +138,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 languagesHeader.style.textAlign = 'center';
                 languagesHeader.textContent = 'Programming Languages';
                 modalLanguages.parentNode.insertBefore(languagesHeader, modalLanguages);
-                
+
                 const languageList = languages.split(',').map(language => language.trim());
                 modalLanguages.innerHTML = languageList.map(language => {
                     const logoUrl = getLogoUrl(language, 'languages');
@@ -155,7 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 librariesHeader.style.textAlign = 'center';
                 librariesHeader.textContent = 'Libraries';
                 modalLibraries.parentNode.insertBefore(librariesHeader, modalLibraries);
-                
+
                 const libraryList = libraries.split(',').map(library => library.trim());
                 modalLibraries.innerHTML = libraryList.map(library => {
                     const logoUrl = getLogoUrl(library, 'libraries');
